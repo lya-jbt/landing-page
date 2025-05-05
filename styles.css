@@ -32,6 +32,7 @@ h3 {
 }
 body {
   background: url(fond.jpg);
+
 }
 
 p {
@@ -96,13 +97,14 @@ h2 {
   width: 410px;
   height: 532px;
   flex-shrink: 0;
-  align-self: center;88
+  align-self: center;
 
 }
 
 .container {
   display: flex;
   flex-direction: row;
+  justify-content: center;
   gap: 20px;
 }
 
